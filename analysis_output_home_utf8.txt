@@ -1,0 +1,6 @@
+﻿Analyzing 4 items...                                            
+
+   info - Parameter 'key' could be a super parameter - lib\widgets\bottom_nav_item.dart:9:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\widgets\home_app_bar.dart:4:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\widgets\home_bottom_bar.dart:8:9 - use_super_parameters
+

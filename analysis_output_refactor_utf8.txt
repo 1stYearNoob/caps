@@ -1,0 +1,10 @@
+﻿Analyzing my_capstone_application_...                           
+
+   info - Parameter 'key' could be a super parameter - lib\pages\home_screen.dart:8:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\pages\login_page.dart:7:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\pages\login_page.dart:276:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\pages\signup_page.dart:6:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\pages\signup_page.dart:271:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\pages\welcome_screen.dart:5:9 - use_super_parameters
+   info - The package name 'my_capstone_application_' isn't a lower_case_with_underscores identifier - pubspec.yaml:1:7 - package_names
+

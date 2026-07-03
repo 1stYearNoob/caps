@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "689755860519",
+    "firebase_url": "https://capstoneloginsign-4b735-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstoneloginsign-4b735",
+    "storage_bucket": "capstoneloginsign-4b735.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689755860519:android:4b8825425ff94c9ae4a802",
+        "android_client_info": {
+          "package_name": "com.example.flutter_admin_agriscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWqpS0otFXYpXi36uOP5vLcNcsURRyGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689755860519:android:7e0d0a12bc1efd93e4a802",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWqpS0otFXYpXi36uOP5vLcNcsURRyGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689755860519:android:16375802a4bdbe31e4a802",
+        "android_client_info": {
+          "package_name": "com.example.flutter_capstone1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWqpS0otFXYpXi36uOP5vLcNcsURRyGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689755860519:android:969256f3b5aae37fe4a802",
+        "android_client_info": {
+          "package_name": "com.example.my_capstone_application_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWqpS0otFXYpXi36uOP5vLcNcsURRyGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

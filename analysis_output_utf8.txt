@@ -1,0 +1,10 @@
+﻿Analyzing disease_detector_page.dart...                         
+
+   info - The constant name 'ROBOFLOW_PROJECT' isn't a lowerCamelCase identifier - lib\pages\disease_detector_page.dart:10:14 - constant_identifier_names
+   info - The constant name 'ROBOFLOW_VERSION' isn't a lowerCamelCase identifier - lib\pages\disease_detector_page.dart:11:14 - constant_identifier_names
+   info - The constant name 'ROBOFLOW_API_KEY' isn't a lowerCamelCase identifier - lib\pages\disease_detector_page.dart:12:14 - constant_identifier_names
+   info - Parameter 'key' could be a super parameter - lib\pages\disease_detector_page.dart:33:9 - use_super_parameters
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\pages\disease_detector_page.dart:218:19 - deprecated_member_use
+warning - The value of the local variable 'scale' isn't used - lib\pages\disease_detector_page.dart:291:18 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\pages\disease_detector_page.dart:330:53 - deprecated_member_use
+
